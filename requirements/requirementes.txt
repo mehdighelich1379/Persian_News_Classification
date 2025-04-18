@@ -1,0 +1,7 @@
+pandas
+numpy
+hazm
+nltk
+pickle
+catboost
+sklearn
